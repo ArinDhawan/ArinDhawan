@@ -7,7 +7,7 @@
 
 <h1 align = "center" > Hello there! This is my GitHub Page!</h1>
 
-<p> I'm Arin Dhawan. Currently, I am a sophomore studying Mathematics and Computer Science @illinois. Computers and Math have always fascinated me and now, I like to make fun projects with my skills. Apart from that, I'm also an avid reader and painter 🧑‍🎨. </p>
+<p> I'm Arin Dhawan. Currently, I am a sophomore studying Mathematics and Computer Science @illinois. Computers 💻 and Math 🧮 have always fascinated me and now, I like to make fun projects with my skills. Apart from that, I'm also an avid reader and painter 🧑‍🎨. </p>
 
 ###  Some of my technical skills are in 
 
@@ -23,3 +23,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
+
+### Socials@ :
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/arindhawan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
