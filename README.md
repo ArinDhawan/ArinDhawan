@@ -5,7 +5,7 @@
 
 # 🐦‍🔥 Arin Dhawan
 
-**' Student Developer (Ninja/Jonin)'**
+**`Student Developer (Writer/Jonin/Thinker)`**
 
 <h1 align = "center" > Hello there! This is my GitHub Page!</h1>
 
