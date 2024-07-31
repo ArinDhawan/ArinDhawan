@@ -1,8 +1,3 @@
-<div id="header" >
-  <img src="https://github.com/ArinDhawan/ArinDhawan/blob/main/giphy%20(1).gif" width="300"/>    
-</div>
-
-
 # 🐦‍🔥 Arin Dhawan
 
 **`Student Developer (Writer/Painter/Part-time Detective)`**
