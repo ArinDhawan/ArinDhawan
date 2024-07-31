@@ -5,9 +5,9 @@
 
 # 🐦‍🔥 Arin Dhawan
 
-**`Student Developer (Writer/Jonin/Thinker)`**
+**`Student Developer (Writer/Painter/Part-time Detective)`**
 
-<p> I'm Arin Dhawan. Currently, I am a junior studying Mathematics and Computer Science @illinois. Computers 💻 and Math 🧮 have always fascinated me and now, I like to make fun projects with my skills. Apart from that, I'm also an avid reader and painter 🧑‍🎨. </p>
+I am a senior at UIUC, studying math and computer science. I like looking at data and figuring out what the cosmos has written. Currently, I am looking to dive into quantitative and statistical fields. This is my GitHub page with all of the personal/group projects. If you find this page useful, feel free to follow. 
 
 ###  Some of my technical skills are in 
 
