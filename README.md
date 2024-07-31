@@ -5,7 +5,7 @@
 
 
 
-<h1 align = "center" > Hello there! This is my GitHub Page!</h1>
+<h1 align = "center" > Hello there!j This is my GitHub Page!</h1>
 
 <p> I'm Arin Dhawan. Currently, I am a junior studying Mathematics and Computer Science @illinois. Computers 💻 and Math 🧮 have always fascinated me and now, I like to make fun projects with my skills. Apart from that, I'm also an avid reader and painter 🧑‍🎨. </p>
 
