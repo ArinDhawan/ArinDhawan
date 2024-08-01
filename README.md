@@ -31,6 +31,6 @@ I am a senior at UIUC, studying math and computer science. I like looking at dat
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/arindhawan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn Badge"/>
   </a>
 </div>
