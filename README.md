@@ -32,13 +32,10 @@ I am a senior at UIUC, studying math and computer science. I like looking at dat
 
 ### Feel Free to contact me :
 
-<div id="badges">
+<div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/arindhawan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-
-<div id="badges">
   <a href="mailto:dhawanarin2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
