@@ -30,7 +30,7 @@ I am a senior at UIUC, studying math and computer science. I like looking at dat
 
 
 
-### Feel Free to contact me :
+### 📟 Feel free to contact me :
 
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/arindhawan/">
