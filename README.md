@@ -39,5 +39,8 @@ I am a senior at UIUC, studying math and computer science. I like looking at dat
   <a href="mailto:dhawanarin2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+    <a href="mailto:arind2@illinois.edu">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"/>
+  </a>
 </div>
 
